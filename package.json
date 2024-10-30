@@ -1,0 +1,13 @@
+{
+  "name": "prisma_multitenant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": ""
+  },
+  "dependencies": {
+    "@prisma/client": "^5.21.1"
+  }
+}
